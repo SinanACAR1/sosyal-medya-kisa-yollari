@@ -1,0 +1,8 @@
+C:\Users\Samet\AppData\Local\Temporary Projects\Bazı Sosyal Medya kısaYolları\bin\Debug\Bazı Sosyal Medya kısaYolları.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\Bazı Sosyal Medya kısaYolları\bin\Debug\Bazı Sosyal Medya kısaYolları.pdb
+C:\Users\Samet\AppData\Local\Temporary Projects\Bazı Sosyal Medya kısaYolları\obj\x86\Debug\Bazı_Sosyal_Medya_kısaYolları.Form1.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\Bazı Sosyal Medya kısaYolları\obj\x86\Debug\Bazı_Sosyal_Medya_kısaYolları.Form2.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\Bazı Sosyal Medya kısaYolları\obj\x86\Debug\Bazı_Sosyal_Medya_kısaYolları.Properties.Resources.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\Bazı Sosyal Medya kısaYolları\obj\x86\Debug\Bazı Sosyal Medya kısaYolları.csproj.GenerateResource.Cache
+C:\Users\Samet\AppData\Local\Temporary Projects\Bazı Sosyal Medya kısaYolları\obj\x86\Debug\Bazı Sosyal Medya kısaYolları.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\Bazı Sosyal Medya kısaYolları\obj\x86\Debug\Bazı Sosyal Medya kısaYolları.pdb
